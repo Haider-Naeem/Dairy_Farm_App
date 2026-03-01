@@ -1,16 +1,26 @@
-# dairy_farm_app
+# Dairy Farm App
 
-A new Flutter project.
+A complete Flutter desktop application for managing dairy farm operations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Animal Management
+- Milk Production Tracking
+- Client Management
+- Sales & Billing
+- Credit Handling
+- Expense Tracking
+- Ledger System
+- Vaccination Records
+- Excel Export
+- Dashboard Overview
 
-A few resources to get you started if this is your first Flutter project:
+## Technology
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Windows Desktop)
+- SQLite Database
+- GetX State Management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Developed by Haider Naeem
